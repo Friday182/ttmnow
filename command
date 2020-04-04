@@ -8,3 +8,5 @@ sudo systemctl status ngnix
 
 To test configuration
 nginx -t
+
+sudo unzip ttm-go.zip
